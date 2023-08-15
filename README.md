@@ -4,19 +4,19 @@ in this bootcamp will be for 6 month and we will learn
 
  Backend Basics
 
- Part1: create your own website with html.
+<br>Part1: create your own website with html.
 
- Part2: Fundamentals of MYSQL database.
+<br>Part2: Fundamentals of MYSQL database.
 
- Part3: Intro to PHP& web servers.
+<br>Part3: Intro to PHP& web servers.
 
- Part4: Fundamentals of PHP.
+<br>Part4: Fundamentals of PHP.
 
- Part5: Using PHP with MYSQL.
+<br>Part5: Using PHP with MYSQL.
 
- Part6: Advanced PHP.
+<br>Part6: Advanced PHP.
 
- Part7: Project.
+<br>Part7: Project.
 
  Backend Advanced
 
