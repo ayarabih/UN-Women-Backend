@@ -2,7 +2,7 @@
 AUC backend-bootcamp
 in this boot camp will be for 6 months and we will learn 
 
- Backend Basics
+<b>Backend Basics</b>
 
 <br>Part1: create your own website with html.
 
@@ -18,7 +18,7 @@ in this boot camp will be for 6 months and we will learn
 
 <br>Part7: Project.
 
- Backend Advanced
+<b>Backend Advanced</b>
 
 <br>Part1: Intro to Laravel
 
