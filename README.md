@@ -20,12 +20,19 @@ in this boot camp will be for 6 months and we will learn
 
  Backend Advanced
 
-<br> Intro to Laravel
-<br> RouƟnes
-<br> Controller
-<br> Views
-<br> AuthenƟcaƟon
-<br> Send Emails
-<br> RelaƟons / ORM
-<br> Publish Your Project
+<br>Part1: Intro to Laravel
+
+<br>Part2: RouƟnes
+
+<br>Part3: Controller
+
+<br>Part4:Views
+
+<br>Part5: AuthenƟcaƟon
+
+<br>Part6: Send Emails
+
+<br>Part7 RelaƟons / ORM
+
+<br>Part8 Publish Your Project
 
