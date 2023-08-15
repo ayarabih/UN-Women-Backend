@@ -1,6 +1,6 @@
 # UN-Women-Backend
 AUC backend-bootcamp
-in this bootcamp will be for 6 month and we will learn 
+in this boot camp will be for 6 months and we will learn 
 
  Backend Basics
 
@@ -20,12 +20,12 @@ in this bootcamp will be for 6 month and we will learn
 
  Backend Advanced
 
- Intro to Laravel
- RouƟnes
- Controller
- Views
- AuthenƟcaƟon
- Send Emails
- RelaƟons / ORM
- Publish Your Project
+<br> Intro to Laravel
+<br> RouƟnes
+<br> Controller
+<br> Views
+<br> AuthenƟcaƟon
+<br> Send Emails
+<br> RelaƟons / ORM
+<br> Publish Your Project
 
