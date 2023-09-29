@@ -7,10 +7,7 @@ ON customer.customer_name=order.customer_name")->fetchAll();
     echo "<table border=1>
     <tr>
         <th> customer_name </th>
-        <th> email </th>
-        <th> phone </th>
-        <th> address </th>
-        <th> class </th>
+        <th> type_order </th>
     </tr>";
 
 
